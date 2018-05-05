@@ -1,6 +1,6 @@
 # <https://jinikr.github.com>
 
 ## TODO
-- [ ] [utterances](https://utteranc.es/)
+- [x] [utterances](https://utteranc.es/)
 - [x] GA
-- [ ] feed
+- [x] feed
