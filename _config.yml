@@ -1,7 +1,8 @@
 lang: ko
-title: 잡것들
-author: yjk
-email: sto998@nate.com
+title: 연습장 끄적끄적
+author:
+  name: youngjin kim
+  email: sto998@nate.com
 description: >- # this means to ignore newlines until "baseurl:"
   이것저것 잡다구리.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -15,6 +16,6 @@ markdown: kramdown
 theme: tale
 
 permalink:  /:year-:month-:day/:title
-paginate:   2
+paginate:   5
 
 google_analytics: UA-NNNNNNNN-N
