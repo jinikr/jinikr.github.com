@@ -2,5 +2,5 @@
 
 ## TODO
 - [ ] [utterances](https://utteranc.es/)
-- [ ] GA
+- [x] GA
 - [ ] feed
