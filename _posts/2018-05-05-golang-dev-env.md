@@ -47,7 +47,7 @@ categories: golang
 
 ### hello world
   ```sh
-  # example download
+  # 현재 디렉토리에 example download
   $ git clone https://github.com/jinikr/golang-exercise .
   Cloning into '.'...
   remote: Counting objects: 13, done.
