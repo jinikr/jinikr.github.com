@@ -80,8 +80,8 @@ categories: golang
   root@5a40fb644fbd:/var/app#
 
   # hello world 테스트
-  root@5a40fb644fbd:/var/app# cd src/01.\ hello-world/
-  root@5a40fb644fbd:/var/app/src/01. hello-world# go run hello-world.go
+  root@5a40fb644fbd:/var/app# cd 01.\ hello-world/
+  root@5a40fb644fbd:/var/app/01. hello-world# go run hello-world.go
   hello, world
   ```
 
